@@ -74,11 +74,11 @@ Actualmente trabajo en proyectos academicos y personales con enfoque en:
 ## En que estoy mejorando
 
 ```text
-Backend        ████████░░  80%
-Frontend       ███████░░░  70%
-Bases de datos ████████░░  80%
-Arquitectura   ██████░░░░  60%
-IoT            █████░░░░░  50%
+Backend        ########..  80%
+Frontend       #######...  70%
+Bases de datos ########..  80%
+Arquitectura   ######....  60%
+IoT            #####.....  50%
 ```
 
 ---
@@ -121,4 +121,3 @@ Gracias por visitar mi perfil.
 `Aprendizaje continuo | Trabajo en equipo | Resolucion de problemas`
 
 </div>
-
