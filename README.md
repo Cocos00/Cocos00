@@ -109,8 +109,7 @@ IoT            #####.....  50%
 - Ubicacion: Hidalgo, Mexico
 - GitHub: [Cocos00](https://github.com/Cocos00)
 - Portafolio: [portfolio-evidencias](https://github.com/Cocos00/portfolio-evidencias)
-- LinkedIn: actualiza este enlace cuando tengas tu perfil
-- Correo: actualiza tu correo de contacto
+- Correo: ivanalberto61@hotmail.com
 
 ---
 
