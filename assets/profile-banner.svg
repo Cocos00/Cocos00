@@ -1,0 +1,33 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#173B78"/>
+      <stop offset="0.55" stop-color="#00A6A6"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+    <linearGradient id="card" x1="120" y1="70" x2="1080" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="white" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="white" stop-opacity="0.08"/>
+    </linearGradient>
+    <filter id="shadow" x="70" y="30" width="1060" height="300" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="22" stdDeviation="26" flood-color="#10233F" flood-opacity="0.24"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1020" cy="68" r="120" fill="white" fill-opacity="0.12"/>
+  <circle cx="112" cy="312" r="150" fill="white" fill-opacity="0.1"/>
+  <circle cx="1010" cy="300" r="38" fill="#173B78" fill-opacity="0.28"/>
+  <circle cx="155" cy="66" r="26" fill="#F8FAFC" fill-opacity="0.3"/>
+  <g filter="url(#shadow)">
+    <rect x="120" y="70" width="960" height="220" rx="22" fill="url(#card)" stroke="white" stroke-opacity="0.28"/>
+  </g>
+  <text x="170" y="145" fill="#E8FBFF" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="4">PORTAFOLIO GITHUB</text>
+  <text x="170" y="205" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="800">Ivan Alberto Cobos del Angel</text>
+  <text x="170" y="248" fill="#E8FBFF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="600">Software Development | Backend | Web | Databases</text>
+  <g transform="translate(878 112)">
+    <rect width="138" height="116" rx="14" fill="#10233F" fill-opacity="0.32"/>
+    <text x="28" y="48" fill="#F59E0B" font-family="Consolas, monospace" font-size="26" font-weight="700">&lt;/&gt;</text>
+    <text x="28" y="84" fill="#E8FBFF" font-family="Consolas, monospace" font-size="18">Cocos00</text>
+  </g>
+</svg>
+
