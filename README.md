@@ -1,22 +1,29 @@
-# Hola, soy Iván 👋
+<div align="center">
 
-Estudiante de Ingeniería en Desarrollo y Gestión de Software
-en la Universidad Tecnológica de Tula-Tepeji.
+# Hola, soy Iván Cobos 👋
 
-Me interesa el desarrollo web, el backend y las bases de datos.
-Aquí comparto mis proyectos académicos y personales.
+Estudiante de Ingeniería en Desarrollo y Gestión de Software  
+Universidad Tecnológica de Tula-Tepeji · Hidalgo, México
 
-### Tecnologías que he utilizado
+Desarrollo web · Backend · Bases de datos
 
-- JavaScript, PHP, C# y Java.
-- Symfony, ASP.NET, HTML y CSS.
-- MySQL, SQL Server y MongoDB.
-- Git y Docker.
+</div>
 
-### Un poco de mí
+## Sobre mí
 
-Cuando no estoy programando, probablemente estoy tocando
-guitarra o escuchando música. 🎸
+Aquí comparto proyectos académicos y personales mientras
+sigo aprendiendo sobre desarrollo de software.
 
-[Portafolio](https://github.com/Cocos00/portfolio-evidencias)
-· [Contacto](mailto:ivanalberto61@hotmail.com)
+También me gusta tocar guitarra y escuchar rock. 🎸
+
+## Tecnologías que he utilizado
+
+- **Lenguajes:** JavaScript, PHP, C#, Java y Kotlin.
+- **Web:** HTML, CSS, Bootstrap, React, Symfony y ASP.NET.
+- **Bases de datos:** MySQL, SQL Server, MongoDB y Neo4j.
+- **Herramientas:** Git, GitHub y Docker.
+
+## Portafolio y contacto
+
+- [Portafolio de evidencias](https://github.com/Cocos00/portfolio-evidencias)
+- [ivanalberto61@hotmail.com](mailto:ivanalberto61@hotmail.com)
